@@ -6,6 +6,6 @@ This project uses YOLOv3 for object detection. Due to its large size, the `yolov
 
 To run the project, you need to download the `yolov3.weights` file and place it in the `yolov3/` directory.
 
-You can download the `yolov3.weights` file from [this link](YOUR_YOLOV3_WEIGHTS_DOWNLOAD_LINK_HERE).
+You can download the `yolov3.weights` file from [this link][(YOUR_YOLOV3_WEIGHTS_DOWNLOAD_LINK_HERE)](https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals/releases/tag/yolov3-weights-initial).
 
 **Please ensure you place the downloaded file in the `yolov3/` directory within your project.** 
