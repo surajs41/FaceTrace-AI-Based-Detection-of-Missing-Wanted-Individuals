@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+dataset/
+facesData/
+profile images/
+*.db
+*.avi
+*.mp4
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.model
+*.weights
+*.prototxt
+*.caffemodel
+*.yml
+*.json
+
+# YOLOv3 specific
+*.weights
+*.cfg
+*.names
+*.txt 
