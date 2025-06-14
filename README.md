@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 
 *   **YOLOv3 Weights (`yolov3.weights`):**
     This file is crucial for the YOLOv3 object detection part of the project. Please download it and place it in the `yolov3/` directory of your project.
-    👉 [Download yolov3.weights]((https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals/releases/tag/yolov3-weights-initial) (This is a common source, please verify if this is the exact one you used)
+    👉 [Download yolov3.weights](https://github.com/surajs41/FaceTrace-AI-Based-Detection-of-Missing-Wanted-Individuals/releases/tag/yolov3-weights-initial) (This is a common source, please verify if this is the exact one you used)
 
 ---
 
